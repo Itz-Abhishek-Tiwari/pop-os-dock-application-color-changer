@@ -53,4 +53,7 @@ Welcome to the Pop!_OS Dock & Application Colour Changer! This bash script allow
     ❌ Add error handling for cases where the required tools or files are missing
     
     🖥️ Create a user-friendly GUI for the script using Zenity or a similar tool
+   
 
+🚀 Upcoming Features:
+![image](https://user-images.githubusercontent.com/69257109/230859056-4288bb94-2c4c-4e5a-bbc9-6b7227b3171c.png)
