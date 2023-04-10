@@ -28,6 +28,8 @@ Welcome to the Pop!_OS Dock & Application Colour Changer! This bash script allow
 
 6️⃣ The script will modify the settings accordingly and display a message indicating that the changes have been made successfully.
 
+7️⃣ Log out and log back in to reload the COSMIC desktop environment and see the changes.
+
 🎨 Screenshots:
 
 📷  Dock -
@@ -36,4 +38,19 @@ Welcome to the Pop!_OS Dock & Application Colour Changer! This bash script allow
 📷 Applications Menu - 
 ![image](https://user-images.githubusercontent.com/69257109/230791221-47a50e6d-a0d5-4e75-b79a-0480d6cf1d61.png)
 
-7️⃣ Log out and log back in to reload the COSMIC desktop environment and see the changes.
+📝 To-Do:
+
+    🔍 Add blur effect to the Applications menu background
+    
+    🔢 Allow users to choose the level of blur
+    
+    📏 Allow users to change the size of the Applications menu
+    
+    📝 Update the script documentation to include the new features
+        
+    🛠️ Refactor the script for better readability and maintainability
+    
+    ❌ Add error handling for cases where the required tools or files are missing
+    
+    🖥️ Create a user-friendly GUI for the script using Zenity or a similar tool
+
