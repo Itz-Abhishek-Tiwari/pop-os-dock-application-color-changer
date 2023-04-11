@@ -42,10 +42,6 @@ Welcome to the Pop!_OS Dock & Application Colour Changer! This bash script allow
 ![image](https://user-images.githubusercontent.com/69257109/230859056-4288bb94-2c4c-4e5a-bbc9-6b7227b3171c.png)
 
 📝 To-Do:
-
-    🔍 Add blur effect to the Applications menu background
-    
-    🔢 Allow users to choose the level of blur
     
     📏 Allow users to change the size of the Applications menu
     
