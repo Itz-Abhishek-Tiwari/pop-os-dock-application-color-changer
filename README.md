@@ -32,11 +32,14 @@ Welcome to the Pop!_OS Dock & Application Colour Changer! This bash script allow
 
 🎨 Screenshots:
 
-📷  Dock -
+📷 Dock -
 ![image](https://user-images.githubusercontent.com/69257109/230791207-8843121d-1271-4a21-90d2-e762ee7df23f.png)
 
 📷 Applications Menu - 
 ![image](https://user-images.githubusercontent.com/69257109/230791221-47a50e6d-a0d5-4e75-b79a-0480d6cf1d61.png)
+
+📷 Transparent application menu -
+![image](https://user-images.githubusercontent.com/69257109/230859056-4288bb94-2c4c-4e5a-bbc9-6b7227b3171c.png)
 
 📝 To-Do:
 
@@ -55,5 +58,4 @@ Welcome to the Pop!_OS Dock & Application Colour Changer! This bash script allow
     🖥️ Create a user-friendly GUI for the script using Zenity or a similar tool
    
 
-🚀 Upcoming Features:
-![image](https://user-images.githubusercontent.com/69257109/230859056-4288bb94-2c4c-4e5a-bbc9-6b7227b3171c.png)
+
