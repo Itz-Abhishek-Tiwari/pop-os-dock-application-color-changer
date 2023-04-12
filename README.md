@@ -12,7 +12,9 @@ Welcome to the Pop!_OS Dock & Application Colour Changer! This bash script allow
 
 💻 Tested on Pop!_OS Cosmic and may work on other GNOME-based desktop environments.
 
-🚀 Instructions:
+## 🚀 Instructions
+
+Required packages: `dbus-x11`
 
 👉 To use the Pop!_OS Dock & Application Colour Changer:
 
@@ -20,9 +22,9 @@ Welcome to the Pop!_OS Dock & Application Colour Changer! This bash script allow
 
 2️⃣ Open the terminal and navigate to the directory where the script is located.
 
-3️⃣ Make the script executable by running the command: chmod +x pop_os_dock_color_changer.sh
+3️⃣ Make the script executable by running the command: `chmod +x pop_os_bg_changer.sh`
 
-4️⃣ Run the script with sudo privileges by typing: sudo ./pop_os_dock_color_changer.sh
+4️⃣ Run the script with sudo privileges by typing: `sudo ./pop_os_bg_changer.sh`
 
 5️⃣ The script will prompt you to select a color using a color-picker dialog box. Choose your desired color and click "OK".
 
