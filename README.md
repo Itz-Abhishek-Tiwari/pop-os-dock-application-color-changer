@@ -15,7 +15,7 @@ Welcome to the Pop!_OS Dock & Application Colour Changer! This bash script allow
 ## 🚀 Instructions
 
 Required packages: `dbus-x11`
-installation : `sudo apt-get update
+installation : `sudo apt-get update &&
                sudo apt-get install dbus-x11`
 
 
